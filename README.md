@@ -1,4 +1,6 @@
-A few interesting experiments!
+# Experiments   
+
+A few interesting experiments to try out!   
 
    * [experiments](#experiments)
       * [Count the number Fs in a sentence](#count-the-number-Fs-in-a-sentence)
