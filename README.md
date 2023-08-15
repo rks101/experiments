@@ -1,6 +1,9 @@
-# experiments
 A few interesting experiments!
 
+   * [experiments](#experiments)
+      * [Count the number Fs in a sentence](#count-the-number-Fs-in-a-sentence)
+      * [Identify Apple's logo](#identify-Apple-logo)
+      * [Cognitive](#cognitive)
 
 ## Count the number Fs in a sentence    
 
