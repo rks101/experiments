@@ -15,3 +15,6 @@ How many did you find?
 
 Only after you try this once quickly, then [see the answer](https://sharpbrains.com/blog/2006/09/10/brain-exercise-brain-teaser).    
 
+## Identify Apple's logo   
+
+Quick! See the six images and [find Apple's logo](https://sharpbrains.com/blog/2015/04/01/brain-teaser-to-test-attention-and-memory-can-you-identify-apples-logo).    
