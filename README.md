@@ -26,11 +26,14 @@ Only after you try this once quickly, then [see the answer](https://sharpbrains.
 
 Quick! See the six images and [find Apple's logo](https://sharpbrains.com/blog/2015/04/01/brain-teaser-to-test-attention-and-memory-can-you-identify-apples-logo).    
 
+After reading the post, ask a question: were you thinking fast or slow?    
+
 ----
 
 ## Cognitive   
 
-Have you heard the word - cognitive?   
-What are [cognitive abilities and skills](https://sharpbrains.com/what-are-cognitive-abilities)?   
+Have you heard the word - cognitive? Now, search [cognitive meaning](https://www.google.com/search?q=cognitive+meaning)    
+
+What are [cognitive abilities and skills](https://sharpbrains.com/what-are-cognitive-abilities)?    
 
 ----
