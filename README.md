@@ -37,3 +37,32 @@ Have you heard the word - cognitive? Now, search [cognitive meaning](https://www
 What are [cognitive abilities and skills](https://sharpbrains.com/what-are-cognitive-abilities)?    
 
 ----
+
+## Incognito by David Eagleman   
+
+How is it possible to get angry at yourself? Who, exactly, is mad at whom?    
+
+Why is it so difficult to keep a secret?    
+
+Why does your foot hit the brake pedal before you are consious of danger ahead?     
+
+---- 
+
+## Algorithms to Live By from Brian Christian and Tom Griffiths    
+
+What should we do, or leave unodne,    
+in a day or lifetime?    
+
+How to solve common decision-making problems?     
+How to have better hunches, when to leave things to chance?      
+How to deal with overwhelming choices or how best to connect with others?    
+
+Our Computers' methods or algorithms have much to teach us.     
+
+From finding your spouse to finding a parking spot, and form organizing your inbox to understanding the workings of memory - where you have a dilemma, they - computers have a rule.    
+
+When to stop looking, they - computers have a rule.    
+
+We can **be Computationally kind** and **be storage-wise grateful**.    
+
+----
