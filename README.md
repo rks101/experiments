@@ -6,6 +6,8 @@ A few interesting experiments to try out!
       * [Count the number Fs in a sentence](#count-the-number-Fs-in-a-sentence)
       * [Identify Apple's logo](#identify-Apple-logo)
       * [Cognitive](#cognitive)
+      * [Incognito by David Eagleman](#incognito-by-david-eagleman)
+      * [Algorithms to Live By from Brian Christian and Tom Griffiths](#Algorithms-to-Live-By-from-Brian-Christian-and-Tom-Griffiths)
 
 ## Count the number Fs in a sentence    
 
