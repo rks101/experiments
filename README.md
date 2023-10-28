@@ -6,6 +6,7 @@ A few interesting experiments to try out!
       * [Count the number Fs in a sentence](#count-the-number-Fs-in-a-sentence)
       * [Identify Apple's logo](#identify-Apple-logo)
       * [Cognitive](#cognitive)
+      * [Interesting Blogs](#interesting-blogs)
       * [Thinking Fast and Slow](#thinking-fast-and-slow)
       * [Incognito by David Eagleman](#incognito-by-david-eagleman)
       * [Algorithms to Live By from Brian Christian and Tom Griffiths](#Algorithms-to-Live-By-from-Brian-Christian-and-Tom-Griffiths)
@@ -30,6 +31,12 @@ Only after you try this once quickly, then [see the answer](https://sharpbrains.
 Quick! See the six images and [find Apple's logo](https://sharpbrains.com/blog/2015/04/01/brain-teaser-to-test-attention-and-memory-can-you-identify-apples-logo).    
 
 After reading the post, ask a question: were you thinking fast or slow?    
+
+----
+
+## Interesting Blogs    
+
+[Insight Therapy](https://www.psychologytoday.com/us/blog/insight-therapy) by Noam Shpencer.    
 
 ----
 
