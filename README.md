@@ -10,6 +10,7 @@ A few interesting experiments to try out!
       * [Thinking Fast and Slow](#thinking-fast-and-slow)
       * [Incognito by David Eagleman](#incognito-by-david-eagleman)
       * [Algorithms to Live By from Brian Christian and Tom Griffiths](#Algorithms-to-Live-By-from-Brian-Christian-and-Tom-Griffiths)
+      * [Come out of your domain for a walk](#Come-out-of-your-domain-for-a-walk)
 
 ## Count the number Fs in a sentence    
 
@@ -85,6 +86,16 @@ When to stop looking, they - computers have a rule.
 
 ---- 
 
-We can **be Computationally kind** and **be storage-wise grateful**.    
+## Come out of your domain for a walk   
+
+[Anand Malligawad - what a mechanical engineer is doing with lakes](https://www.malligavadfoundation.org/about)    
+
+[Forest - can we create forests](https://forestcreators.com/blog/a-beginners-guide-to-miyawaki-method-of-tree-plantation/)    
+
+[Prowaste - can we reduce or eliminate landfills](https://prowaste.org/)     
+
+---- 
+
+We can **be Computationally kind**, **be Storage-wise grateful**, and **be conscious for Garbage**    
 
 ----
